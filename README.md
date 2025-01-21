@@ -7,7 +7,7 @@ January 21, 2025
 Udacity VC Project
 
 ### Description
-Describe what your project is about and what it does
+My project is about me trying to learn how to do all this and it is **rough**. I hope I can pass this last module.
 
 ### Files used
 Include the files used
