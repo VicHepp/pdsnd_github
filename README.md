@@ -10,7 +10,7 @@ Udacity VC Project
 My project is about me trying to learn how to do all this and it is **rough**. I hope I can pass this last module.
 
 ### Files used
-Include the files used
+I used the files from the Udacity Project. 
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
