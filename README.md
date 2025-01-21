@@ -13,5 +13,5 @@ My project is about me trying to learn how to do all this and it is **rough**. I
 I used the files from the Udacity Project. 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I would like to **THANK** Zachary J. cause I could not get the workspace to link up and the directions given were _difficult for me to follow_.  I would like to **THANK** the Data Academy for offering this class. I would like to **THANK** the project reviewer.
 
